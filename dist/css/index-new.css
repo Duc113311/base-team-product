@@ -1,0 +1,26 @@
+.txtTitleLogo {
+  font-size: 35px;
+  font-weight: bold;
+  color: white;
+}
+
+.txtTitleCon {
+  margin-left: 2px;
+  font-size: 17px;
+  font-weight: bold !important;
+  color: #3089d7;
+}
+
+.main-sidebar {
+  background-color: rgb(13 37 60) !important;
+}
+/* New */
+
+.scroll-news {
+  height: calc(100vh - 250px);
+  overflow-y: scroll;
+}
+
+.bg-header-form {
+  background-color: #b5d8f7;
+}
